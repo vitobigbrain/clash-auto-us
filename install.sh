@@ -71,3 +71,6 @@ echo "   日志 : $LOG"
 echo
 echo "先手动验证一次（只测速、不切换）："
 echo "   /usr/bin/python3 \"$SCRIPT_DST\" --once --dry-run"
+echo
+echo "如需让终端自动继承代理（VPN 开启时）："
+echo "   ./setup-terminal-proxy.sh"
