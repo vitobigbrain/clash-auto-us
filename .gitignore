@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# 运行产物
+*.log
+*.err
+__pycache__/
+*.pyc
